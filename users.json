@@ -1,10 +1,5 @@
-[
-    {
-        "nama": "mikhael",
-        "status": "admin"
-    },
-    {
-        "nama": "asriel",
-        "status": "user"
-    }
-]
+{
+    "Shadow Xploit": { "status": "ADMIN" },
+    "Mikael Adonai": { "status": "PREMIUM" },
+    "burhan": { "status": "ENCRYPT" }
+}
